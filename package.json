@@ -1,6 +1,6 @@
 {
   "homepage": "https://johnturner4004.github.io/readme-generator",
-  "name": "readme-generator",
+  "name": "azure-readme-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
