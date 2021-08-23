@@ -1,10 +1,15 @@
 ![License](https://img.shields.io/github/license/johnturner4004/readme-generator.svg?style=for-the-badge) ![Repo Size](https://img.shields.io/github/languages/code-size/johnturner4004/readme-generator.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/johnturner4004/readme-generator.svg?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/johnturner4004/readme-generator.svg?style=for-the-badge&social) ![Stars](https://img.shields.io/github/stars/johnturner4004/readme-generator.svg?style=for-the-badge)
     
-# `README.md` Generator
+# Azure `README.md` Generator
+
+## NOTE:
+
+This is a duplicate of my [`README.md` Generator](https://www.github.com/johnturner4004/readme-generator) that I am using to learn how to use some of Azure's services. If you are looking to use my `README.md` Generator pleade go [here](https://johnturner4004.github.io/readme-generator) for the most recent version of this application. This copy will not be updated I simply needed a working application to deploy to Azure and did not want to break my existing application so I made a copy of it.
 
 ## Table of Contents
 
-- [`README.md` Generator](#readmemd-generator)
+- [Azure `README.md` Generator](#azure-readmemd-generator)
+  - [NOTE:](#note)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Screenshot](#screenshot)
